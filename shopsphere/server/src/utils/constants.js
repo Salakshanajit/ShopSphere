@@ -1,0 +1,4 @@
+const ORDER_STATUSES = ['PLACED', 'PROCESSING', 'SHIPPED', 'DELIVERED', 'CANCELLED'];
+const ROLES = ['USER', 'ADMIN'];
+
+module.exports = { ORDER_STATUSES, ROLES };
